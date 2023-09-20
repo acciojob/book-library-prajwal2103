@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+	width:85%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
