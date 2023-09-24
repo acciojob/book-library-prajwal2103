@@ -1,5 +1,5 @@
 body{
-	background-color:#f8f8f8;
+	background-color:#ffffff;
 	display:flex;
 	justify-content:center;
 	align-items:center;
@@ -8,7 +8,7 @@ body{
 .book-library{
 	 width:500px;
     height:100%;
-    background-color:#ffffff;
+    background-color:#f8f8f8;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,7 +38,7 @@ img{
 .white-space{
     width:99%;
     height:10px;
-    background-color: black;
+    background-color: white;
     margin:0 auto;
 	margin-top:10px;
 }
@@ -56,4 +56,5 @@ button{
     width:490px;
 	background-color:#2ecc71;
 	color:white;
+	border:none;
 }
